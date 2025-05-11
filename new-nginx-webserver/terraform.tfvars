@@ -1,0 +1,6 @@
+ami           = "ami-0f1dcc636b69a6438"  
+instance_type = "t2.micro"
+key_name      = "my-terraform-key"
+region        = "ap-south-1"
+vpc_cidr      = "10.0.0.0/16"
+subnet_cidr   = "10.0.1.0/24"
